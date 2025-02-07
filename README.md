@@ -1,1 +1,1 @@
-# my-animated-signature
+# My Animated Signature
