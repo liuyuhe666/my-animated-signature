@@ -1,6 +1,7 @@
 {
   "name": "my-animated-signature",
-  "private": true,
+  "private": false,
+  "packageManager": "pnpm@9.6.0",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
